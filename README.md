@@ -7,7 +7,7 @@ Repository for shogi pieces I made or modified. By default the filenames are for
 
 Inspired by [this youtube video](https://www.youtube.com/watch?v=LEkh6vnWJ6Y)
 
-Credits: The 2-kanji characters are made by Hari Seldon and lincesed under [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_traditional_shogi_pieces)
+Credits: The 2-kanji characters were made by Hari Seldon and lincesed under [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_traditional_shogi_pieces)
 
 ![kanji red wood screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_kanji_red_wood.png)
 
