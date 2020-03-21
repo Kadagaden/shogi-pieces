@@ -11,6 +11,6 @@ XBoard Menu - > View -> Edit Themes List -> add these lines (of course change PA
 "shogi military (Ka)" -ubt true  -lbtf PATH_TO/boards/tile_military.png -dbtf PATH_TO/boards/tile_military.png -pid PATH_TO/military
 "shogi international (Ka)" -ubt true  -lbtf PATH_TO/boards/tile_wood1.png -dbtf PATH_TO/boards/tile_wood1.png -pid PATH_TO/international
 "shogi doubutsu (Ka)" -ubt true  -lbtf PATH_TO/boards/tile_doubutsu.png -dbtf PATH_TO/boards/tile_doubutsu.png -pid PATH_TO/doubutsu
-
+"shogi kanji light 3D OTB (Ka)" -ubt true  -lbtf PATH_TO/boards/tile_wood6.png -dbtf PATH_TO/boards/tile_wood6.png -pid PATH_TO/kanji_light_3D_OTB
 
 Then you can change the board at View -> Board

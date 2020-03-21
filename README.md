@@ -5,7 +5,12 @@ The files were made with [Inkscape](https://inkscape.org) and [GIMP](https://www
 
 ## Piece Sets
 
-### Kanji (red wood) & 2-Kanji (red wood)
+### Kanji light 3D OTB
+Designed mainly for 'over the board' games (tablet or phone laid flat).
+
+![kanji light 3D OTB screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_kanji_light_3D_OTB.png)
+
+### Kanji red wood & 2-Kanji red wood
 
 Inspired by [this youtube video](https://www.youtube.com/watch?v=LEkh6vnWJ6Y)
 
@@ -16,11 +21,11 @@ Credits: The 2-kanji characters were made by Hari Seldon and lincesed under [Cre
 
 ![2-kanji red wood screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_2-kanji_red_wood.png)
 
-### Kanji (light)
+### Kanji light
 
 ![kanji light screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_kanji_light.png)
 
-### Kanji (brown)
+### Kanji brown
 
 ![kanji brown screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_kanji_brown.png)
 
