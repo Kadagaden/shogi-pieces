@@ -1,5 +1,7 @@
 ## About
-Repository for shogi pieces I made or modified. By default the filenames are for [XBoard](https://www.gnu.org/software/xboard/) and [gshogi](https://github.com/johncheetham/gshogi), but of course they can be used with other programs, too. The files were made with [Inkscape](https://inkscape.org). This repository also contains board tiles (see screenshots), which were made/modified with [GIMP](https://www.gimp.org).
+Repository for shogi pieces I made or modified. By default the filenames are for [XBoard](https://www.gnu.org/software/xboard/) but of course they can be used with other programs, too. This repository also contains board tiles and complete boards (see the *boards* folder).
+
+The files were made with [Inkscape](https://inkscape.org) and [GIMP](https://www.gimp.org).
 
 ## Piece Sets
 
@@ -32,9 +34,7 @@ A modified version of [CouchTomato87](https://github.com/CouchTomato87/Internati
 
 I recreated all of the original [Doubutsu](https://en.wikipedia.org/wiki/D%C5%8Dbutsu_sh%C5%8Dgi) pieces in Inkscape SVG format.
 
-Credits: the original Doubutsu pieces were created by [Madoka Kitato](https://en.wikipedia.org/wiki/Madoka_Kitao).
-
-(also: [screenshot of the gshogi version](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_doubutsu_gshogi.png))
+Credits: the original Doubutsu pieces were created by [Madoka Kitao](https://en.wikipedia.org/wiki/Madoka_Kitao).
 
 ![doubutsu screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_doubutsu_xboard.png)
 
