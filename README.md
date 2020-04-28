@@ -1,7 +1,7 @@
 ## About
-Repository for shogi pieces I made or modified. By default the filenames are for [XBoard](https://www.gnu.org/software/xboard/) but of course they can be used with other programs, too. This repository also contains board tiles and complete boards (see the *boards* folder).
+Repository for shogi pieces and boards I made or modified.
 
-The files were made with [Inkscape](https://inkscape.org) and [GIMP](https://www.gimp.org).
+I have a separate repository for chess, chess variants, janggi, xiangqi, sittuyin: [https://github.com/Ka-hu/chess-pieces](https://github.com/Ka-hu/chess-pieces)
 
 ## Piece Sets
 
@@ -42,6 +42,10 @@ I recreated all of the original [Doubutsu](https://en.wikipedia.org/wiki/D%C5%8D
 Credits: the original Doubutsu pieces were created by [Madoka Kitao](https://en.wikipedia.org/wiki/Madoka_Kitao).
 
 ![doubutsu screenshot](https://raw.githubusercontent.com/Ka-hu/shogi-pieces/master/_screenshots/scrot_doubutsu_xboard.png)
+
+Also, you can play with this set on the [pychess-variants](https://www.pychess.org) website.
+
+![doubutsu screenshot pychess-variants](https://i.imgur.com/OefPNmu.png)
 
 ### Military
 
