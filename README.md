@@ -8,6 +8,8 @@ Userstyles for pychess.org are linked where available (you need the Stylish exte
 
 Click on the pictures to see them in high resolution.
 
+The filenames are for pychess.org by default, but you can use them with XBoard or other programs by renaming the files. I made a shell script for this, see **shogitool.sh** in this repository. Copy shogitool.sh into the directory of a piece set (eg. kanji_red_wood) and run `./shogitool.sh --help` for more information. For example, you can rename the files to the XBoard naming format by `./shogitool.sh p2x`
+
 ---
 
 | Screenshot | Description  | Userstyle  |
