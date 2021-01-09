@@ -4,16 +4,14 @@ Repository for shogi pieces and boards I made or modified.
 
 I have a separate repository for chess, chess variants, janggi, xiangqi, sittuyin: [https://github.com/Ka-hu/chess-pieces](https://github.com/Ka-hu/chess-pieces)
 
-Userstyles for pychess.org are linked where available (you need the Stylish extension for you browser to use them).
-
 Click on the pictures to see them in high resolution.
 
 The filenames are for pychess.org by default, but you can use them with XBoard or other programs by renaming the files. I made a shell script for this, see **shogitool.sh** in this repository. Copy shogitool.sh into the directory of a piece set (eg. kanji_red_wood) and run `./shogitool.sh --help` for more information. For example, you can rename the files to the XBoard naming format by `./shogitool.sh p2x`
 
 ---
 
-| Screenshot | Description  | Userstyle  |
-|---|---|---|
+| Screenshot | Description  |
+|---|---|
 |  <img src="https://i.imgur.com/l8Lp93X.png" style="min-width:300px;width:300px"> | **Kanji light 3D OTB piece set**<br> Designed mainly for 'over the board' games (tablet or phone laid flat).|
 |  <img src="https://i.imgur.com/6ngdvtJ.png" style="min-width:300px;width:300px"> | **Kanji red wood piece set**<br> Inspired by [this youtube video](https://www.youtube.com/watch?v=LEkh6vnWJ6Y)|
 |  <img src="https://i.imgur.com/F1MIfSA.png" style="min-width:300px;width:300px"> | **2-Kanji red wood piece set**<br> Inspired by [this youtube video](https://www.youtube.com/watch?v=LEkh6vnWJ6Y)<br>Credits: The 2-kanji characters were made by Hari Seldon and lincesed under [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_traditional_shogi_pieces)|
