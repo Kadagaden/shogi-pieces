@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # https://github.com/Ka-hu/shogi-pieces
-# Tools for converting shogi pieces to differenc formats & filenames
+# Tools for converting shogi pieces to different formats & filenames
 # Dependencies: inkscape
 
 
